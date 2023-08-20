@@ -1,0 +1,14 @@
+# qssi-user 12 SKQ1.211019.001 V14.0.5.0.SJPINXM release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: gram
+- flavor: qssi-user
+- release: 12
+- id: SKQ1.211019.001
+- incremental: V14.0.5.0.SJPINXM
+- tags: release-keys
+- fingerprint: POCO/gram_in/gram:12/RKQ1.211019.001/V14.0.5.0.SJPINXM:user/release-keys
+- is_ab: false
+- brand: POCO
+- branch: qssi-user-12-SKQ1.211019.001-V14.0.5.0.SJPINXM-release-keys
+- repo: poco_gram_dump
